@@ -28,7 +28,7 @@ This presentation was made with &#10084; using [Observable Framework](https://ob
 <details open>
  <summary> Elemental Microscopy Journal </summary>
   <ul>
-   <li> Recently launced interactive journal, <a href="https://www.elementalmicroscopy.com/">elementalmicroscopy.com</a> </li>
+   <li> Recently launched interactive journal, <a href="https://www.elementalmicroscopy.com/">elementalmicroscopy.com</a> </li>
    <li> Currently inviting author submissions -- contact us if you're interested!</li>
   </ul>
 </details>

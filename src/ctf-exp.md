@@ -19,7 +19,7 @@ import { return_resized_img } from "./components/ImageUtilities.js";
 <div class="card" style="background: var(--theme-foreground);">
   <div class="img-container">
     ${resize((width) =>
-      return_resized_img(bio_fft_img, 0.85*width,"auto;"),
+      return_resized_img(bio_fft_img, width,"auto;"),
     )}
   </div>
 </div>

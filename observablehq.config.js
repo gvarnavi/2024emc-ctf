@@ -65,6 +65,7 @@ export default {
         },
         { name: "Materials Science Examples", path: "mat-sci-examples" },
         { name: "Life Science Examples", path: "bio-examples" },
+        { name: "Elemental Microscopy Demo", path: "elemental-microscopy" },
       ],
     },
     {
