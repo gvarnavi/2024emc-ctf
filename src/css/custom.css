@@ -1,0 +1,31 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-near-midnight.css");
+@import url("observablehq:theme-alt.css");
+@import url("observablehq:theme-wide.css");
+
+:root {
+  --theme-foreground-focus: #fff994;
+}
+
+#observablehq-footer {
+  margin: 1rem auto;
+}
+
+#observablehq-footer nav {
+  max-width: none;
+}
+
+.observablehq p,
+ol,
+ul,
+li {
+  max-width: none;
+}
+
+#marimo-island img {
+  max-width: 100%;
+}
+
+#py4dstem-container img {
+  max-width: 100%;
+}
